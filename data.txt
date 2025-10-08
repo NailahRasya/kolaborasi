@@ -1,6 +1,5 @@
 Daftar kontribusi:
 
-- [ ] Anggota 1 menambahkan satu baris teks di
-sini.
+- Nailah semangat belajar
 - [ ] Anggota 2 menambahkan satu baris teks di
 sini.
