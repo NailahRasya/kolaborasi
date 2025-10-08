@@ -6,5 +6,5 @@ Setiap anggota kelompok diminta untuk melakukan
 perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
-- Nama Anggota 1
+- Nailah Raisya
 - Fitri Haerani
